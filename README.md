@@ -1,4 +1,4 @@
-### Hi there 👋
+### Oie me chamo ELShiroe, sou criador de bots e websites 👋
 
 [![blog](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/5ZgMEpGhse)
 
