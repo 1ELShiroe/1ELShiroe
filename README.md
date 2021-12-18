@@ -1,7 +1,7 @@
 ### Oie me chamo ELShiroe, sou criador de bots e websites 👋
 
 [![blog](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/5ZgMEpGhse)
-[![blog](https://img.shields.io/github/followers/1ELShiroe.svg?style=social&label=Follow&maxAge=2592000)]
+[blog](https://img.shields.io/github/followers/1ELShiroe.svg?style=social&label=Follow&maxAge=2592000)
 ![Anurag's Registros](https://github-readme-stats.vercel.app/api?username=1ELShiroe&show_icons=true&theme=synthwave)
       
 
