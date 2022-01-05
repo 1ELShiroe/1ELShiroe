@@ -2,7 +2,7 @@
 <p align="center" style="border-radius: 50%;">
   <img style="border-radius: 10%;"  src="https://avatars.githubusercontent.com/u/71229138?v=4" width="100px;" alt=""/>
   <h2 align="center">ELShiroe</h2>
-  <p align="center">Descrição.<p>
+  <p align="center">Descrição<p>
   <p align="center">
     <a>
       <img src="https://img.shields.io/github/followers/1ELShiroe.svg?style=social&label=Follow&maxAge=2592000">
