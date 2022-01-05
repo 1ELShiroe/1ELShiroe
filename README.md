@@ -1,15 +1,27 @@
-### Oie me chamo ELShiroe, sou criador de bots e websites 👋
 
-[![blog](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/5ZgMEpGhse)
-![blog](https://img.shields.io/github/followers/1ELShiroe.svg?style=social&label=Follow&maxAge=2592000)
-![Anurag's Registros](https://github-readme-stats.vercel.app/api?username=1ELShiroe&show_icons=true&theme=synthwave)
-      
+<p align="center" style="border-radius: 50%;">
+  <img style="border-radius: 10%;"  src="https://avatars.githubusercontent.com/u/71229138?v=4" width="100px;" alt=""/>
+  <h2 align="center">ELShiroe</h2>
+  <p align="center">Descrição.<p>
+  <p align="center">
+    <a>
+      <img src="https://img.shields.io/github/followers/1ELShiroe.svg?style=social&label=Follow&maxAge=2592000">
+    </a>
+  </p>
+</p>
 
-<div style="display: inline_block"> <br/>
-   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-   <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-   <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-   <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</div><br>
-
+<div align="center">
+      <img href="https://discord.com/invite/w7B5nKB" src="https://img.shields.io/badge/ELShiroe%236819-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
+      <img href="https://discord.com/invite/w7B5nKB" src="https://img.shields.io/discord/816679663568683079?label=Comunidade%20&logo=Discord&colorB=5865F2&style=for-the-badge&logoColor=white">
+</div> 
+&nbsp;
+<div align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=1ELShiroe&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
+</div>
+<div align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=1ELShiroe&theme=radical&include_all_commits=true&count_private=true">
+</div>
+&nbsp;
+<div align="center">
+      <img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</div>
