@@ -1,9 +1,3 @@
-<p align="center">Descrição<p>
-    <div align="center">
-      <img src="https://img.shields.io/github/followers/1ELShiroe.svg?style=social&label=Follow&maxAge=2592000">
-    </div>
-</p>
-
 <div align="center">
       <img href="https://discord.com/invite/w7B5nKB" src="https://img.shields.io/badge/ELShiroe%236819-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
       <img href="https://discord.com/invite/w7B5nKB" src="https://img.shields.io/discord/816679663568683079?label=Comunidade%20&logo=Discord&colorB=5865F2&style=for-the-badge&logoColor=white">
