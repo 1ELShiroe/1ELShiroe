@@ -1,9 +1,4 @@
 <div align="center">
-      <img href="https://discord.com/invite/w7B5nKB" src="https://img.shields.io/badge/ELShiroe%236819-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
-      <img href="https://discord.com/invite/w7B5nKB" src="https://img.shields.io/discord/816679663568683079?label=Comunidade%20&logo=Discord&colorB=5865F2&style=for-the-badge&logoColor=white">
-</div> 
-&nbsp;
-<div align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=1ELShiroe&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
 </div>
 <div align="center">
