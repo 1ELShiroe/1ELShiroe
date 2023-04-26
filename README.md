@@ -2,7 +2,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=1ELShiroe&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
 </div>
 <div align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=1ELShiroe&theme=radical&include_all_commits=true&count_private=true">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=1ELShiroe&theme=radical&include_all_commits=true&count_private=false">
 </div>
 &nbsp;
 <div align="center">
