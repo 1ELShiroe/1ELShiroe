@@ -40,7 +40,7 @@ Welcome to my GitHub profile! I'm passionate about development and always eager 
 
 </div>
 
-<div style="display:flex; margin-top: 50px;"> 
+<div align="center" style="display:flex; margin-top: 50px;"> 
 
 <img src="https://github-readme-stats.vercel.app/api?username=1ELShiroe&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
 
