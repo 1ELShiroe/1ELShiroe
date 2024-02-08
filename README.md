@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm passionate about development and always eager 
 ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=Puppeteer&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
 
-<div/>
+</div>
 
 ### Connect With me:
 
