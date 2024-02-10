@@ -28,19 +28,22 @@ Welcome to my GitHub profile! I'm passionate about development and always eager 
 ![Next](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=Puppeteer&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 </div>
 
-### Connect With me:
+## Connect With me:
 
-<div style="display: flex; gap: 10px; align-items: center; justify-content: flex-start; width: 100%; margin-left: 0; margin-top: 0; padding: 0;">
+<div style="display: flex; gap: 10px;">
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacsonsantana/)
   [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@elshiroe/)
 
 </div>
 
-<div align="center" style="display:flex; margin-top: 200px;"> 
+<div style="display:flex; margin-top: 50px;"> 
 
 <img src="https://github-readme-stats.vercel.app/api?username=1ELShiroe&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
 
